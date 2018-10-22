@@ -1,2 +1,1 @@
-# taller
-taller
+# equis_game
